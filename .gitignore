@@ -1,0 +1,20 @@
+# Java build output
+out/
+
+# Local database
+parking.sqlite3
+
+# VSCode
+.vscode/
+
+# Python artifacts (if present)
+__pycache__/
+*.pyc
+*.sqlite3
+
+# Java libs (optional)
+java/lib/
+
+# Compiled class files (safety)
+*.class
+
